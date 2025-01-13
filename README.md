@@ -34,7 +34,7 @@ Welcome to the **Modern Design EMi Calculator** repository! This project provide
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/emi-calculator.git
+   git clone https://github.com/SAhnawaj763/emi-calculator.git
    cd emi-calculator
    ```
 
