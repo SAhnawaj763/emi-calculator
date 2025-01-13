@@ -68,10 +68,10 @@ Welcome to the **Modern Design EMi Calculator** repository! This project provide
 
 ## Screenshots
 
-![Screenshot1](https://via.placeholder.com/800x400?text=Main+Screen)
+![Screenshot1](https://cutt.ly/8e27sj6w)
 *Main screen showcasing the modern design.*
 
-![Screenshot2](https://via.placeholder.com/800x400?text=Results)
+![Screenshot2](https://cutt.ly/Ye27dfI7)
 *Results screen with EMI breakdown and visualizations.*
 
 ---
